@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.712,=C:\Projects\Unit1.pas</Transaction>
+    <Transaction>2018-09-10 10:37:41.006,=C:\Projects\Unit1.pas</Transaction>
+    <Transaction>2018-09-10 10:38:22.957,C:\Users\Aletsu\Documents\GitHub\hm\Src\uMain.pas=C:\Projects\Unit1.pas</Transaction>
+    <Transaction>2018-09-10 10:38:22.957,C:\Users\Aletsu\Documents\GitHub\hm\Src\uMain.dfm=C:\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018-09-10 10:40:06.802,C:\Users\Aletsu\Documents\GitHub\hm\Src\projHM.dproj=C:\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
